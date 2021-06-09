@@ -6,4 +6,4 @@ This repository serves as the source code repository for the ICO of CBDC FX ERC2
 The token is transferrable and will be tradeable in cryptocurrency exchanges.
 The token will be distributed to the rightful holders after ICO ends.
 # Contact
-If you have questions please send us an email at [info@cbdcfx.org](mailto:info@cbdcfx.org) or go to our website (http://cbdcfx.org/) to log an enquiry
+If you have questions please send us an email at [admin@cbdcfx.org](mailto:admin@cbdcfx.org) or go to our website (http://cbdcfx.org/) to log an enquiry
